@@ -10,5 +10,5 @@ for i in annee-age..annee
     else
         puts "Il y a #{annee - i} ans, tu avais #{i - n} ans"
     end
-end
+end#a
 
